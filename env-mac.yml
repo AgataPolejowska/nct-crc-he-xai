@@ -1,0 +1,24 @@
+name: tf-xai
+channels:
+  - apple
+  - conda-forge
+dependencies:
+    - python=3.9
+    - pip>=19.0
+    - jupyter
+    - tensorflow-deps
+    - scikit-learn
+    - scipy
+    - pandas
+    - matplotlib
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - ipykernel
+    - pip:
+        - tensorflow-metal
+        - tensorflow-macos
+        - tf-keras-vis
+        - lucid
