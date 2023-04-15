@@ -21,4 +21,6 @@ dependencies:
         - tensorflow-metal
         - tensorflow-macos
         - tf-keras-vis
+        - keras-vis
         - lucid
+        - seaborn
