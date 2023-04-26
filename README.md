@@ -1,5 +1,5 @@
 # nct-crc-he-xai
-XAI methods for a neural network classifier trained on NCT Biobank.
+XAI methods for a neural network classifier trained on NCT Biobank images.
 
 
 ### Purpose
