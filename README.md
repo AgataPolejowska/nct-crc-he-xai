@@ -31,7 +31,7 @@ Article that shows visualization of classifier decision for this dataset using D
 
 Feature visualization is performed for 10 parts from different depth of the neural network (from conv and dense).
 
-It is a optimization problem. The goal is to find an image that maximizes the activation of a particular filter. It is assumed that the weights of neural network are fixed. 
+It is an optimization problem. The goal is to find an image that maximizes the activation of a particular filter. It is assumed that the weights of neural network are fixed. 
 
 2. Saliency maps visualization
 
