@@ -1,6 +1,9 @@
 # nct-crc-he-xai
 XAI methods for a neural network classifier trained on NCT Biobank images.
 
+<img width="594" alt="image" src="https://user-images.githubusercontent.com/44722312/236639903-f30fa476-f59f-490e-ae0d-1cb1d5a978e1.png">
+<img width="457" alt="image" src="https://user-images.githubusercontent.com/44722312/236639967-576ac9ad-4c17-445b-973a-4ae9a7e33089.png">
+
 
 ### Purpose
 
@@ -41,7 +44,7 @@ The gradient network prediction is calculated in refrence to input data, with fi
 
 3. CAM images visualization
 
-Using Grad-CAM, Grad-CAM++ (or CAM or SmoothCAM) and Guided Grad-CAM.
+Using Grad-CAM and Guided Grad-CAM.
 
 Class Activation Mapping creates heat maps that show regions characteristic of a class.
 
@@ -51,3 +54,5 @@ Class Activation Mapping creates heat maps that show regions characteristic of a
 The requirements:
 - CNN based
 - accuracy on training set > 0.8
+
+The classifier tested in this project is based on the ResNet50 architecture.
