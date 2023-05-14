@@ -6,6 +6,13 @@ CRC-VAL-HE-7K
 
 models
 
+notebooks/resnet-50-finetuned-nct-crc-he-45k
+
 .DS_Store
 
 resnet50_model
+wandb
+*.bin
+*.json
+*.pt
+*.pth
